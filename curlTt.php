@@ -5,8 +5,7 @@
 	/*$postFields = array('http' => array(
 		'method' => 'POST',
 		'content' => http_build_query(array(
-			'username' => 'pedro_hernandorena@hotmail.com',
-			'password' => 'Demo135!'
+			'username' => 
 		)),
 	));*/
 
